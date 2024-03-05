@@ -18,7 +18,7 @@ This project features autonomous vehicle controlled by the movements of a live f
 https://github.com/alyshawang/motorized-fish-controlled-vehicle/assets/113640728/c1de8b13-6b6d-4a87-bf8b-5244ab836705
 
 ## Architecture Overview
-<img width="450" height="350" alt="Screenshot 2024-03-05 at 4 45 14 PM" src="https://github.com/alyshawang/motorized-fish-controlled-vehicle/assets/113640728/3bf1f2ed-80e4-4012-b822-0161c690269f">
-<img width="350" height="350" alt="Screenshot 2024-03-05 at 4 45 20 PM" src="https://github.com/alyshawang/motorized-fish-controlled-vehicle/assets/113640728/e4682988-c96d-4599-bc3a-0be2ca5df6c3">
+<img width="475" height="350" alt="Screenshot 2024-03-05 at 4 45 14 PM" src="https://github.com/alyshawang/motorized-fish-controlled-vehicle/assets/113640728/3bf1f2ed-80e4-4012-b822-0161c690269f">
+<img width="375" height="350" alt="Screenshot 2024-03-05 at 4 45 20 PM" src="https://github.com/alyshawang/motorized-fish-controlled-vehicle/assets/113640728/e4682988-c96d-4599-bc3a-0be2ca5df6c3">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
